@@ -1,4 +1,4 @@
-# Task 1.3.2
+cd# Task 1.3.2
 
 This is an (almost) empty directory, within which you can create a Kotlin
 Toolchain project from scratch using
